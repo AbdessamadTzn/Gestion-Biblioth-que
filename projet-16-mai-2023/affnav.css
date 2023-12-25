@@ -1,0 +1,17 @@
+a{
+    padding: 20px;
+    text-align: center;
+    color: wheat;
+    transition: 0.5s;
+    text-decoration: none;
+    
+}
+nav{
+    background-color: black;
+    margin-right: auto;
+    margin-left: auto;
+    width: 60%;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-bottom: 1px;
+}

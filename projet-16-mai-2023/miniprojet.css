@@ -1,0 +1,42 @@
+/* table {
+    padding-left:auto;
+    padding-right: auto;
+    width: 8z0%;
+    border: 1px solid ;
+} */
+table {
+    text-align: center;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 80%;
+  }
+  td, th {
+    border-bottom: 1px solid black;
+    text-align: center;
+  }
+  input[type='text']{
+    border-radius: 25px;
+    margin-bottom: 2px;
+  }
+
+.pen-button {
+    color: blue;
+}
+.delete-button{
+  color: blue;
+}
+input[type='submit']{
+  border-radius: 25px;
+  background-color: coral;
+}
+input[type='date']{
+  border-radius: 25px;
+}
+body {
+  background: aqua;
+}
+select{
+  border-radius: 25px;
+}

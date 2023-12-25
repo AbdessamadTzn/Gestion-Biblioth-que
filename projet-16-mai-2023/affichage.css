@@ -1,0 +1,25 @@
+
+ul{
+    margin-top: -240px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    background-color: black;
+    border-radius: 25px;
+    padding-left: 14px;
+    overflow: hidden;
+}
+ul li{
+    list-style: none;
+    width: 100px;
+}
+ul li a{
+    display: block;
+    padding: 20px;
+    text-align: center;
+    color: wheat;
+    transition: 0.5s;
+    text-decoration: none;
+}

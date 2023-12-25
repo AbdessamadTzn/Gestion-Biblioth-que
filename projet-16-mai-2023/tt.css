@@ -1,0 +1,12 @@
+a:hover{
+    color: brown;
+}
+a:visited{
+    color:chartreuse ;
+}
+table{
+    border: solid;
+}
+tr, th{
+    border: 1px solid #000;
+}
