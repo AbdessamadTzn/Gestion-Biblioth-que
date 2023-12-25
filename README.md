@@ -1,2 +1,2 @@
 # Gestion Bibliothèque
-Book's library management using html5, css, php, Js, phpMyAdmin
+Gestion Bibliothèque pour pratique du html5, css, php, Js, phpMyAdmin
